@@ -1,0 +1,5 @@
+{
+  "name": "ProSub Translator",
+  "description": "Professional-grade SRT subtitle translator powered by Gemini 3 Pro. Ensures strict 1:1 line correspondence, original timing preservation, and natural Chinese localization using scientific terminology.",
+  "requestFramePermissions": []
+}
